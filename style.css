@@ -1,0 +1,24 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #fdfdfd;
+}
+
+nav {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 25px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h1, h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
